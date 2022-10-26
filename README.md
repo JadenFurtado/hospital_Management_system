@@ -3,6 +3,8 @@ A management system created by me for hospitals/clinics
 This is done for my OOP class in college.
 I hope to continue wortking on it on and of whenever I get time.
 
+<img src="https://github.com/JadenFurtado/hospital_Management_system/blob/master/src/hospita_system/doc2.jpg"></img>
+
 ## Team members:
 
 - Jash Dharia
